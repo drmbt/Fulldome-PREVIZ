@@ -1,0 +1,15 @@
+
+**/Backup/**
+**/archival/**
+**/TDImportCache/**
+
+*local/Media/**
+
+
+#exclude everything
+local/recordings/*
+local/assets/*
+local/log/*
+
+# exception to the rule
+!local/recordings/.gitkeep 
