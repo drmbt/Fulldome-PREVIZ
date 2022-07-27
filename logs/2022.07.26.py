@@ -69,3 +69,41 @@
 2022.07.26 20:16:38 [DEBUG] msg: onInit | Scene: equirectangularRemap
 2022.07.26 20:20:32 [DEBUG] msg: KEYMACROS	| onShortcuts: <F5>	| Toggle cook_bar probe overlay
 
+2022.07.26 21:27:34 [INFO] msg: SceneChanger | SwitchToScene(index=0, fadeTime=0): 'SPOUT'
+2022.07.26 21:27:34 [INFO] msg: SceneChanger | SwitchToScene(index=1, fadeTime=0): 'TEST_PATTERNS'
+2022.07.26 21:27:34 [INFO] msg: SceneChanger | SwitchToScene(index=2, fadeTime=0): 'SceneTemplate'
+2022.07.26 21:27:34 [DEBUG] msg: onInit | Scene: TEST_PATTERNS
+2022.07.26 21:27:34 [INFO] msg: SceneChanger | SwitchToScene(index=3, fadeTime=0): 'equirectangularRemap'
+2022.07.26 21:27:34 [DEBUG] msg: onInit | Scene: equirectangularRemap
+2022.07.26 21:27:41 [DEBUG] msg: onInit | Scene: SPOUT
+2022.07.26 21:27:41 [DEBUG] msg: onStart | Scene: SPOUT
+2022.07.26 21:27:41 [DEBUG] msg: onExit | Scene: SPOUT
+2022.07.26 21:27:41 [DEBUG] msg: onInit | Scene: SceneTemplate
+2022.07.26 21:27:41 [DEBUG] msg: onStart | Scene: SceneTemplate
+2022.07.26 21:27:41 [DEBUG] msg: onExit | Scene: SceneTemplate
+2022.07.26 21:27:41 [DEBUG] msg: onInit | Scene: TEST_PATTERNS
+2022.07.26 21:27:41 [DEBUG] msg: onStart | Scene: TEST_PATTERNS
+2022.07.26 21:27:41 [DEBUG] msg: onExit | Scene: TEST_PATTERNS
+2022.07.26 21:27:41 [DEBUG] msg: onStart | Scene: equirectangularRemap
+2022.07.26 21:27:52 [DEBUG] msg: SceneExt	| Initdatatable()	'/project1/sceneLib/SPOUT'
+2022.07.26 21:27:52 [DEBUG] msg: SceneExt	| Initdatatable()	'/project1/sceneLib/SceneTemplate'
+2022.07.26 21:27:52 [DEBUG] msg: SceneExt	| Initdatatable()	'/project1/sceneLib/TEST_PATTERNS'
+2022.07.26 21:28:34 [INFO] msg: SceneChanger | SwitchToScene(index=0, fadeTime=0): 'SPOUT'
+2022.07.26 21:28:34 [DEBUG] msg: onExit | Scene: equirectangularRemap
+2022.07.26 21:28:34 [DEBUG] msg: onInit | Scene: equirectangularRemap
+2022.07.26 21:28:39 [DEBUG] msg: SceneExt	| Initdatatable()	'/project1/sceneLib/equirectangularRemap'
+2022.07.26 21:28:48 [DEBUG] msg: KEYMACROS	| onShortcuts: <ctrl.,>	| Open Settings
+
+2022.07.26 21:31:24 [DEBUG] msg: KEYMACROS	| onShortcuts: <F1>	| toggle perform mode
+
+2022.07.26 21:31:46 [DEBUG] msg: KEYMACROS	| onShortcuts: <F1>	| toggle perform mode
+
+2022.07.26 21:31:53 [INFO] msg: SceneChanger | SwitchToScene(index=1, fadeTime=0): 'TEST_PATTERNS'
+2022.07.26 21:31:53 [DEBUG] msg: onStart | Scene: TEST_PATTERNS
+2022.07.26 21:31:53 [DEBUG] msg: onInit | Scene: SPOUT
+2022.07.26 21:31:57 [DEBUG] msg: onInit | Scene: SPOUT
+2022.07.26 21:31:58 [INFO] msg: SceneChanger | SwitchToScene(index=0, fadeTime=0): 'SPOUT'
+2022.07.26 21:31:58 [DEBUG] msg: onExit | Scene: TEST_PATTERNS
+2022.07.26 21:31:58 [DEBUG] msg: onStart | Scene: SPOUT
+2022.07.26 21:31:58 [DEBUG] msg: onInit | Scene: TEST_PATTERNS
+2022.07.26 21:32:00 [DEBUG] msg: SceneExt	| Initdatatable()	'/project1/sceneLib/TEST_PATTERNS'
